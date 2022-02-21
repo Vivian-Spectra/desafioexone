@@ -20,7 +20,7 @@ A seguintes ferramenta foi usada na construção desse projeto:
 Pré-requisitos: Java 17
 ```bash
 # Clonar repositório
-https://github.com/Vivian-Spectra/desafio-capgemini.git
+https://github.com/Vivian-Spectra/desafioexone.git
 # Entrar no arquivo do projeto
 Main.Java
 # Executar o projeto
